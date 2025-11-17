@@ -10,7 +10,7 @@ Ambiente de Laboratório
 
 ---
 
-## 📡 Enumeração (Nmap)
+##  Enumeração (Nmap)
 
 Exemplo de varredura:
 
